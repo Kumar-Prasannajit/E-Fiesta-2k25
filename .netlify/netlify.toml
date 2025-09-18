@@ -7,7 +7,7 @@ headers = []
 [functions."*"]
 
 [build]
-publish = "D:\\web\\web\\E-Fiesta-2k25\\frontend\\frontend\\dist"
+publish = "D:\\web\\web\\E-Fiesta-2k25\\frontend\\dist"
 publishOrigin = "config"
 commandOrigin = "config"
 base = "D:\\web\\web\\E-Fiesta-2k25\\frontend"
